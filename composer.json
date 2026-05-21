@@ -1,0 +1,14 @@
+{
+    "name": "susanzhang003/gemini-omni-video",
+    "description": "Gemini Omni Video tools and utilities",
+    "type": "library",
+    "homepage": "https://www.gemini-omni.studio/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "susanzhang003",
+            "homepage": "https://www.gemini-omni.studio/"
+        }
+    ],
+    "require": {}
+}
