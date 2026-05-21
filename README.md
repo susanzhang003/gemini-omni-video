@@ -5,7 +5,7 @@ A utility package for [Gemini Omni Video](https://www.gemini-omni.studio/).
 ## Installation
 
 ```bash
-go get github.com/susanzhang003/gemini-omni-video-go
+go get github.com/susanzhang003/gemini-omni-video
 ```
 
 ```bash
